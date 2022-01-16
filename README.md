@@ -96,36 +96,36 @@ To see how you can add code snippets, see below:
 .proud-of-this-css {
   body {
     background-color: white;
-  }
+}
 
-  .main-div {
+.main-div {
     width: 1400px;
     height: 600px;
     background-color: hsl(233, 47%, 7%);
-  }
-  .head-div {
+}
+.head-div {
     width: 1400px;
     height: 120px;
     background-color: hsl(233, 47%, 7%);
-  }
-  .mid-div {
+}
+.mid-div {
     width: 1400px;
     height: 300px;
     background-color: hsl(233, 47%, 7%);
-  }
-  .foot-div {
+}
+.foot-div{
     width: 1400px;
     height: 120px;
     background-color: hsl(233, 47%, 7%);
-  }
-  .mid1 {
+}
+.mid1{
     width: 200px;
     height: 300px;
     background-color: hsl(233, 47%, 7%);
     float: left;
-  }
+}
 
-  .mid2 {
+.mid2{
     width: 400px;
     height: 300px;
     background-color: hsl(244, 38%, 16%);
@@ -135,80 +135,86 @@ To see how you can add code snippets, see below:
     padding-top: 30px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-  }
-  .mid3 {
+    
+}
+.mid3 {
     width: 450px;
     height: 330px;
-    background-color: blanchedalmond;
+    background-color: hsl(277, 64%, 61%);
     float: left;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-  }
-  .mid4 {
+}
+.mid4{
     width: 250px;
     height: 300px;
     background-color: hsl(233, 47%, 7%);
     float: left;
-  }
-  .img {
+}
+.img{
     width: 450px;
     height: 330px;
     float: left;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-  }
+    mix-blend-mode: multiply;
+    opacity: 0.75;
+  
+}
 
-  h1 {
+h1 {
     color: hsl(0, 0%, 100%);
     font-weight: 700;
-    font-family: "Inter", sans-serif;
-  }
+    font-family: 'Inter', sans-serif;
+}
 
-  .p1 {
+.p1 {
     color: hsla(0, 0%, 100%, 0.6);
-    font-family: "Lexend Deca", sans-serif;
-  }
-  .p2 {
+    font-family: 'Lexend Deca', sans-serif;
+}
+.p2 {
     display: inline;
     color: hsl(0, 0%, 100%);
-    font-family: "Inter", sans-serif;
-  }
+    font-family: 'Inter', sans-serif;
+    
+}
 
-  .p3 {
+.p3 {
     display: inline;
     margin-left: 100px;
     color: hsl(0, 0%, 100%);
-    font-family: "Inter", sans-serif;
-  }
-  .p4 {
+    font-family: 'Inter', sans-serif;
+    
+}
+.p4 {
     display: inline;
     margin-left: 100px;
-    color: hsl(0, 0%, 100%);
-    font-family: "Inter", sans-serif;
-  }
-  .p5 {
+    color:hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    
+}
+.p5 {
     display: inline;
     color: hsla(0, 0%, 100%, 0.6);
     font-size: 15px;
-    font-family: "Lexend Deca", sans-serif;
-  }
-  .p6 {
+    font-family: 'Lexend Deca', sans-serif;
+}
+.p6 {
     display: inline;
     margin-left: 60px;
     color: hsla(0, 0%, 100%, 0.6);
     font-size: 15px;
-    font-family: "Lexend Deca", sans-serif;
-  }
-  .p7 {
+    font-family: 'Lexend Deca', sans-serif;
+}
+.p7 {
     display: inline;
     margin-left: 75px;
     color: hsla(0, 0%, 100%, 0.6);
     font-size: 15px;
-    font-family: "Lexend Deca", sans-serif;
-  }
-  span {
+    font-family: 'Lexend Deca', sans-serif;
+}
+span {
     color: hsl(277, 64%, 61%);
-  }
 }
 ```
 
