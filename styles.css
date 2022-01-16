@@ -44,7 +44,7 @@ body {
 .mid3 {
     width: 450px;
     height: 330px;
-    background-color: blanchedalmond;
+    background-color: hsl(277, 64%, 61%);
     float: left;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -61,6 +61,8 @@ body {
     float: left;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
+    mix-blend-mode: multiply;
+    opacity: 0.75;
   
 }
 
